@@ -1,0 +1,24 @@
+cd documents
+cd github
+cd (tab)
+
+
+git pull
+git config --global user.name "kanishka-nayak-wdc"
+git config --global user.email "kanishka.nayak@wdc.com"
+
+
+git branch feature/kanishka-cvf
+git checkout feature/kanishka-cvf
+
+
+cd C:
+mkdir repos
+cd repos
+git clone (ssh link) 
+
+git config --global user.name "kanishka-nayak-wdc"
+git config --global user.email "kanishka.nayak@wdc.com"
+git clone (ssh link)
+
+
